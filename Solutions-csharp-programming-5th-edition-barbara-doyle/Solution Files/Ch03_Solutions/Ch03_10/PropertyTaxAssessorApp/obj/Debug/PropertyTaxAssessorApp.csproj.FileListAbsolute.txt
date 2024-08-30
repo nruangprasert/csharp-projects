@@ -1,0 +1,11 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\bin\Debug\PropertyTaxAssessorApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\bin\Debug\PropertyTaxAssessorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\bin\Debug\PropertyTaxAssessorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\obj\Debug\PropertyTaxAssessorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\obj\Debug\PropertyTaxAssessorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\bin\Debug\PropertyTaxAssessorApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\obj\Debug\PropertyTaxAssessorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\obj\Debug\PropertyTaxAssessorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\bin\Debug\PropertyTaxAssessorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\bin\Debug\PropertyTaxAssessorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_10\PropertyTaxAssessorApp\obj\Debug\PropertyTaxAssessorApp.csprojResolveAssemblyReference.cache

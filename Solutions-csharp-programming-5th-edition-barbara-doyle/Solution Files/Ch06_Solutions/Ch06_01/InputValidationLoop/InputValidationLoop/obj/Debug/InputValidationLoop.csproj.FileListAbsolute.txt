@@ -1,0 +1,35 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_07\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_07\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_07\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_07\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_07\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.csprojResolveAssemblyReference.cache
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_02\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_01\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_01\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_01\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_01\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_01\InputValidationLoop\InputValidationLoop\bin\Debug\InputValidationLoop.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_01\InputValidationLoop\InputValidationLoop\obj\Debug\InputValidationLoop.csprojResolveAssemblyReference.cache

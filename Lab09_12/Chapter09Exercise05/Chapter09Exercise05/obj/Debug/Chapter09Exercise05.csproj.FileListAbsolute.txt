@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\Chapter09Exercise05.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\TripCalculatorApp.TripCalculatorForm.resources
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\Chapter09Exercise05.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\Chapter09Exercise05.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\Chapter09Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\bin\Debug\Chapter09Exercise05.exe.config
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\bin\Debug\Chapter09Exercise05.exe
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\bin\Debug\Chapter09Exercise05.pdb
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\Chapter09Exercise05.exe
+C:\Users\Admin\Desktop\Chapter09Exercise05\Chapter09Exercise05\obj\Debug\Chapter09Exercise05.pdb

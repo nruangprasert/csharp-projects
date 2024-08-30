@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\bin\Debug\TemperatureConversionApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\bin\Debug\TemperatureConversionApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\bin\Debug\TemperatureConversionApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\obj\Debug\TemperatureConversionApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\obj\Debug\TemperatureConversionApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\obj\Debug\TemperatureConversionApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\bin\Debug\TemperatureConversionApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\obj\Debug\TemperatureConversionApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\obj\Debug\TemperatureConversionApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\bin\Debug\TemperatureConversionApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\bin\Debug\TemperatureConversionApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_01\TemperatureConversionApp\obj\Debug\TemperatureConversionApp.csprojResolveAssemblyReference.cache

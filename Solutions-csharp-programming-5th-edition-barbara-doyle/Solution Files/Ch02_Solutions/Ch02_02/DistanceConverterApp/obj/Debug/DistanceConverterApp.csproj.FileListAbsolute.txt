@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\bin\Debug\DistanceConverterApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\obj\Debug\DistanceConverterApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\obj\Debug\DistanceConverterApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\obj\Debug\DistanceConverterApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\obj\Debug\DistanceConverterApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\bin\Debug\DistanceConverterApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_02\DistanceConverterApp\bin\Debug\DistanceConverterApp.pdb

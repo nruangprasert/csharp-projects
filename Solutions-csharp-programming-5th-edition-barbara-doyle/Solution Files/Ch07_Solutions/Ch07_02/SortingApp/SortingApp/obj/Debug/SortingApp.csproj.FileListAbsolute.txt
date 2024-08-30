@@ -1,0 +1,10 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\bin\Debug\SortingApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\bin\Debug\SortingApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\bin\Debug\SortingApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\obj\Debug\SortingApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\obj\Debug\SortingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\bin\Debug\SortingApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\obj\Debug\SortingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\obj\Debug\SortingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\bin\Debug\SortingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_05\SortingApp\SortingApp\bin\Debug\SortingApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\bin\Debug\DisplaySchoolInfoApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_01\DisplaySchoolInfoApp\obj\Debug\DisplaySchoolInfoApp.csprojResolveAssemblyReference.cache

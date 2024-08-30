@@ -1,0 +1,17 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\obj\Debug\ExerciseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_09\ExerciseApp\ExerciseApp\bin\Debug\ExerciseApp.pdb

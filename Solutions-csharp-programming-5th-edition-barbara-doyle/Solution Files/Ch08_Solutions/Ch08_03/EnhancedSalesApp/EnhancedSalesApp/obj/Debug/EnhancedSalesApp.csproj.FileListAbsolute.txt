@@ -1,0 +1,15 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\obj\Debug\EnhancedSalesApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\obj\Debug\EnhancedSalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\obj\Debug\EnhancedSalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\obj\Debug\EnhancedSalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\obj\Debug\EnhancedSalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\obj\Debug\EnhancedSalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_03\EnhancedSalesApp\EnhancedSalesApp\bin\Debug\EnhancedSalesApp.pdb

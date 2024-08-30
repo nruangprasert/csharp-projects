@@ -1,0 +1,11 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_01\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\bin\Debug\TakeHomePayApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\bin\Debug\TakeHomePayApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\bin\Debug\TakeHomePayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\obj\Debug\TakeHomePayApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\obj\Debug\TakeHomePayApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\obj\Debug\TakeHomePayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\bin\Debug\TakeHomePayApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\obj\Debug\TakeHomePayApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\obj\Debug\TakeHomePayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\bin\Debug\TakeHomePayApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\bin\Debug\TakeHomePayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_09\TakeHomePayApp\obj\Debug\TakeHomePayApp.csprojResolveAssemblyReference.cache

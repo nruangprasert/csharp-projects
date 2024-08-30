@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\bin\Debug\Housing.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\bin\Debug\Housing.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\obj\Debug\Housing.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\obj\Debug\Housing.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\bin\Debug\Housing.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\bin\Debug\Housing.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\obj\Debug\Housing.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\Housing\Housing\obj\Debug\Housing.pdb

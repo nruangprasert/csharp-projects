@@ -1,0 +1,14 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\bin\Debug\UndergraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\bin\Debug\UndergraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\obj\Debug\UndergraduateStudent.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\obj\Debug\UndergraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_05\UndergraduateStudent\UndergraduateStudent\obj\Debug\UndergraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\bin\Debug\UndergraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\bin\Debug\UndergraduateStudent.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\bin\Debug\Student.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\bin\Debug\Student.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\obj\Debug\UndergraduateStudent.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\obj\Debug\UndergraduateStudent.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_09\UndergraduateStudent\UndergraduateStudent\obj\Debug\UndergraduateStudent.pdb

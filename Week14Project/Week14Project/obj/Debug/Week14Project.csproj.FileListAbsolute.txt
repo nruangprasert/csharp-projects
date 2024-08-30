@@ -1,0 +1,10 @@
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\bin\Debug\Week14Project.exe.config
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\bin\Debug\Week14Project.exe
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\bin\Debug\Week14Project.pdb
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.csproj.AssemblyReference.cache
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.PracticeApp.resources
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.Properties.Resources.resources
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.csproj.GenerateResource.cache
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.csproj.CoreCompileInputs.cache
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.exe
+C:\Users\mbashir1\Desktop\Week14Project\Week14Project\obj\Debug\Week14Project.pdb

@@ -1,0 +1,36 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csprojResolveAssemblyReference.cache
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\bin\Debug\FileCreationApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.FrmFileCreation.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.Properties.Resources.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_03\FileCreationApp\FileCreationApp\obj\Debug\FileCreationApp.csproj.GenerateResource.Cache

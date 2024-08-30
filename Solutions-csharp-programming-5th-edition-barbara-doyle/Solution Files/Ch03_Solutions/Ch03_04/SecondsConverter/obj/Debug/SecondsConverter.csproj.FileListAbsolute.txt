@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\bin\Debug\SecondsConverter.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\bin\Debug\SecondsConverter.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\bin\Debug\SecondsConverter.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\obj\Debug\SecondsConverter.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\obj\Debug\SecondsConverter.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\bin\Debug\SecondsConverter.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\obj\Debug\SecondsConverter.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\obj\Debug\SecondsConverter.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\bin\Debug\SecondsConverter.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\bin\Debug\SecondsConverter.pdb

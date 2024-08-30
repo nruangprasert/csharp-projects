@@ -1,0 +1,21 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.csprojResolveAssemblyReference.cache
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.pdb
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe.config
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.exe
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.pdb
+H:\Fall2014\CourseMaterials\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe.config
+H:\Fall2014\CourseMaterials\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.exe
+H:\Fall2014\CourseMaterials\Solution Files\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\bin\Debug\InputPercentageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_02\InputPercentageApp\InputPercentageApp\obj\Debug\InputPercentageApp.csprojResolveAssemblyReference.cache

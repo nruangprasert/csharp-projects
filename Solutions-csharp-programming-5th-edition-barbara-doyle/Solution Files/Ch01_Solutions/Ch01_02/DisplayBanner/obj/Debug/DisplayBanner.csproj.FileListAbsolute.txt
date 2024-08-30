@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\bin\Debug\DisplayBanner.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\bin\Debug\DisplayBanner.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\bin\Debug\DisplayBanner.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\obj\Debug\DisplayBanner.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_04\DisplayBanner\obj\Debug\DisplayBanner.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_02\DisplayBanner\bin\Debug\DisplayBanner.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_02\DisplayBanner\obj\Debug\DisplayBanner.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_02\DisplayBanner\obj\Debug\DisplayBanner.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_02\DisplayBanner\bin\Debug\DisplayBanner.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_02\DisplayBanner\bin\Debug\DisplayBanner.pdb

@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\DisplayLanguageName\bin\Debug\DisplayLanguageName.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\DisplayLanguageName\bin\Debug\DisplayLanguageName.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\DisplayLanguageName\bin\Debug\DisplayLanguageName.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\DisplayLanguageName\obj\Debug\DisplayLanguageName.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\DisplayLanguageName\obj\Debug\DisplayLanguageName.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_04\DisplayLanguageName\bin\Debug\DisplayLanguageName.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_04\DisplayLanguageName\obj\Debug\DisplayLanguageName.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_04\DisplayLanguageName\obj\Debug\DisplayLanguageName.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_04\DisplayLanguageName\bin\Debug\DisplayLanguageName.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_04\DisplayLanguageName\bin\Debug\DisplayLanguageName.pdb

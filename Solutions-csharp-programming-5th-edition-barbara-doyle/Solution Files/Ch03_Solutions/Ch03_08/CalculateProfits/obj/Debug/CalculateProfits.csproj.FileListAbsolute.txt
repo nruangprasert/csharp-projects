@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\bin\Debug\CalculateProfits.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\bin\Debug\CalculateProfits.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\bin\Debug\CalculateProfits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\obj\Debug\CalculateProfits.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\obj\Debug\CalculateProfits.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\obj\Debug\CalculateProfits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\bin\Debug\CalculateProfits.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\obj\Debug\CalculateProfits.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\obj\Debug\CalculateProfits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\bin\Debug\CalculateProfits.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\bin\Debug\CalculateProfits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_08\CalculateProfits\obj\Debug\CalculateProfits.csprojResolveAssemblyReference.cache

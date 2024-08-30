@@ -1,0 +1,17 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\MultiUnit.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\MultiUnit.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\Housing.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\IUnits.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\Housing.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\IUnits.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\obj\Debug\MultiUnit.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\obj\Debug\MultiUnit.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\MultiUnit.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\MultiUnit.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\Housing.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\IUnits.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\Housing.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\bin\Debug\IUnits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\obj\Debug\MultiUnit.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\obj\Debug\MultiUnit.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\MultiUnit\MultiUnit\obj\Debug\MultiUnit.pdb

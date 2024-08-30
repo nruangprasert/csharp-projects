@@ -1,0 +1,21 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_02\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_02\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_02\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_02\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_02\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_02\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_03\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_04\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_04\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_04\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_04\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_04\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_04\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache

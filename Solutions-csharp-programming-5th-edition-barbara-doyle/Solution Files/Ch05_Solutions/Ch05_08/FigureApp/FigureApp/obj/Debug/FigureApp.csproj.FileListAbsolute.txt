@@ -1,0 +1,24 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.csprojResolveAssemblyReference.cache
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.exe.config
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.exe
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.pdb
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.exe
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\bin\Debug\FigureApp.pdb
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch05_Solutions\Ch05_07\FigureApp\FigureApp\obj\Debug\FigureApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\bin\Debug\FigureApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\obj\Debug\FigureApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\obj\Debug\FigureApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\bin\Debug\FigureApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\bin\Debug\FigureApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\obj\Debug\FigureApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\bin\Debug\FigureApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\obj\Debug\FigureApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\obj\Debug\FigureApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\bin\Debug\FigureApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\bin\Debug\FigureApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_08\FigureApp\FigureApp\obj\Debug\FigureApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\bin\Debug\TicketRecorder.exe.config
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\bin\Debug\TicketRecorder.exe
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\bin\Debug\TicketRecorder.pdb
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\obj\Debug\TicketRecorder.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\obj\Debug\TicketRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\obj\Debug\TicketRecorder.exe
+C:\Users\Admin\Desktop\TicketRecorder\TicketRecorder\obj\Debug\TicketRecorder.pdb

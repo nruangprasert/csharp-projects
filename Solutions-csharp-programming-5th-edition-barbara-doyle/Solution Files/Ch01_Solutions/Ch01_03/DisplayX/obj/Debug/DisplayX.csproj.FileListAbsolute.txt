@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_03\DisplayX\bin\Debug\DisplayX.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_03\DisplayX\bin\Debug\DisplayX.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_03\DisplayX\bin\Debug\DisplayX.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_03\DisplayX\obj\Debug\DisplayX.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_03\DisplayX\obj\Debug\DisplayX.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_03\DisplayX\bin\Debug\DisplayX.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_03\DisplayX\obj\Debug\DisplayX.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_03\DisplayX\obj\Debug\DisplayX.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_03\DisplayX\bin\Debug\DisplayX.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_03\DisplayX\bin\Debug\DisplayX.pdb

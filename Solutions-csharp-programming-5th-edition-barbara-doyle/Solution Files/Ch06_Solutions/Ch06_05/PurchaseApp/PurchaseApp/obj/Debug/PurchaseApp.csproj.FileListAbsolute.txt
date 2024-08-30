@@ -1,0 +1,27 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_04\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_05\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_05\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_05\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_05\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_05\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_05\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.csprojResolveAssemblyReference.cache

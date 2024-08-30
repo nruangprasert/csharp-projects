@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe.config
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.pdb
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.exe
+C:\CSharp_4thEdition\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\obj\Debug\TripApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Solutions\Ch04_06\TripApp\TripApp\bin\Debug\TripApp.pdb

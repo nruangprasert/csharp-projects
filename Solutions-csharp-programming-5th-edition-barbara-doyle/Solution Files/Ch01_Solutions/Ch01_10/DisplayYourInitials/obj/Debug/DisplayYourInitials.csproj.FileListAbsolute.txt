@@ -1,0 +1,11 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\bin\Debug\DisplayYourInitials.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\bin\Debug\DisplayYourInitials.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\bin\Debug\DisplayYourInitials.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\obj\Debug\DisplayYourInitials.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\obj\Debug\DisplayYourInitials.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\bin\Debug\DisplayYourInitials.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\obj\Debug\DisplayYourInitials.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\obj\Debug\DisplayYourInitials.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\bin\Debug\DisplayYourInitials.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\bin\Debug\DisplayYourInitials.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_10\DisplayYourInitials\obj\Debug\DisplayYourInitials.csprojResolveAssemblyReference.cache

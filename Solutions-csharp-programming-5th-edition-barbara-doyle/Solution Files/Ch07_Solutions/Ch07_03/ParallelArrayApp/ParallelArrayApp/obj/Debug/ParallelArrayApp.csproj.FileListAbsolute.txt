@@ -1,0 +1,15 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.pdb
+H:\Fall2014\CourseMaterials\Solution Files\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.exe.config
+H:\Fall2014\CourseMaterials\Solution Files\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.exe
+H:\Fall2014\CourseMaterials\Solution Files\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\bin\Debug\ParallelArrayApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_04\ParallelArrayApp\ParallelArrayApp\obj\Debug\ParallelArrayApp.csprojResolveAssemblyReference.cache

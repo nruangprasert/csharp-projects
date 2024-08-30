@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\bin\Debug\ConvertAndDisplayTempsApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\bin\Debug\ConvertAndDisplayTempsApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\bin\Debug\ConvertAndDisplayTempsApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\obj\Debug\ConvertAndDisplayTempsApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\obj\Debug\ConvertAndDisplayTempsApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\bin\Debug\ConvertAndDisplayTempsApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\obj\Debug\ConvertAndDisplayTempsApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\obj\Debug\ConvertAndDisplayTempsApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\bin\Debug\ConvertAndDisplayTempsApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch03\Ch03_Solutions\Ch03_05\ConvertAndDisplayTempsApp\bin\Debug\ConvertAndDisplayTempsApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_01\WaterTest\bin\Debug\WaterTest.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_01\WaterTest\bin\Debug\WaterTest.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_01\WaterTest\bin\Debug\WaterTest.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_01\WaterTest\obj\Debug\WaterTest.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_01\WaterTest\obj\Debug\WaterTest.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch05\Ch05_Solutions\Ch05_01\WaterTest\obj\Debug\WaterTest.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_02\WaterTest\bin\Debug\WaterTest.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_02\WaterTest\obj\Debug\WaterTest.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_02\WaterTest\obj\Debug\WaterTest.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_02\WaterTest\bin\Debug\WaterTest.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_02\WaterTest\bin\Debug\WaterTest.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch05\Ch05_Solutions\Ch05_02\WaterTest\obj\Debug\WaterTest.csprojResolveAssemblyReference.cache

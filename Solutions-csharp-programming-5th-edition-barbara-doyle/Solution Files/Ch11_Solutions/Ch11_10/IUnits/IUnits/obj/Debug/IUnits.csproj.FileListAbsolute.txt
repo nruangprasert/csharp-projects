@@ -1,0 +1,8 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\bin\Debug\IUnits.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\bin\Debug\IUnits.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\obj\Debug\IUnits.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\obj\Debug\IUnits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\bin\Debug\IUnits.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\bin\Debug\IUnits.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\obj\Debug\IUnits.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\IUnits\IUnits\obj\Debug\IUnits.pdb

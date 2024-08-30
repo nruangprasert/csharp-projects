@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_03\GradingApp\bin\Debug\GradingApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_03\GradingApp\bin\Debug\GradingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_03\GradingApp\bin\Debug\GradingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_03\GradingApp\obj\Debug\GradingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_03\GradingApp\obj\Debug\GradingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_03\GradingApp\bin\Debug\GradingApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_03\GradingApp\obj\Debug\GradingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_03\GradingApp\obj\Debug\GradingApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_03\GradingApp\bin\Debug\GradingApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_03\GradingApp\bin\Debug\GradingApp.pdb

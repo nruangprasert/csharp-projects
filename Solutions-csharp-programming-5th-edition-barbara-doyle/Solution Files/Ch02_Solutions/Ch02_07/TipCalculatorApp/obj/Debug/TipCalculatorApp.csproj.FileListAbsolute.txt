@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\bin\Debug\TipCalculatorApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\obj\Debug\TipCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\bin\Debug\TipCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\bin\Debug\TipCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\obj\Debug\TipCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\obj\Debug\TipCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\bin\Debug\TipCalculatorApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\obj\Debug\TipCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\obj\Debug\TipCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\bin\Debug\TipCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\bin\Debug\TipCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_07\TipCalculatorApp\obj\Debug\TipCalculatorApp.csprojResolveAssemblyReference.cache

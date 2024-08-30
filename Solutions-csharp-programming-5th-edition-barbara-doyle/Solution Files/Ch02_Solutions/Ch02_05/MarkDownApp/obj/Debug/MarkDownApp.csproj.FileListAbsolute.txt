@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\bin\Debug\MarkDownApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\bin\Debug\MarkDownApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\bin\Debug\MarkDownApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\obj\Debug\MarkDownApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\obj\Debug\MarkDownApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\obj\Debug\MarkDownApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\bin\Debug\MarkDownApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\obj\Debug\MarkDownApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\obj\Debug\MarkDownApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\bin\Debug\MarkDownApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\bin\Debug\MarkDownApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch02\Ch02_Solutions\Ch02_05\MarkDownApp\obj\Debug\MarkDownApp.csprojResolveAssemblyReference.cache

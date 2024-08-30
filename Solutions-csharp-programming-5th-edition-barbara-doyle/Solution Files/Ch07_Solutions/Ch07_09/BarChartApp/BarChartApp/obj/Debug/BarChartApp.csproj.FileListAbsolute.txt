@@ -1,0 +1,12 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\bin\Debug\BarChartApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\bin\Debug\BarChartApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\bin\Debug\BarChartApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\obj\Debug\BarChartApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\obj\Debug\BarChartApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\obj\Debug\BarChartApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\bin\Debug\BarChartApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\obj\Debug\BarChartApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\obj\Debug\BarChartApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\bin\Debug\BarChartApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\bin\Debug\BarChartApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_09\BarChartApp\BarChartApp\obj\Debug\BarChartApp.csprojResolveAssemblyReference.cache

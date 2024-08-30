@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\obj\Debug\DisplayFlagDesign.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\obj\Debug\DisplayFlagDesign.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\obj\Debug\DisplayFlagDesign.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\obj\Debug\DisplayFlagDesign.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_05\DisplayFlagDesign\bin\Debug\DisplayFlagDesign.pdb

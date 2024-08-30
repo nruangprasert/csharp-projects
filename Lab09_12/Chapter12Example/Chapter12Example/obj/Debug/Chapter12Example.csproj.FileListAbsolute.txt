@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\bin\Debug\Chapter12Example.exe.config
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\bin\Debug\Chapter12Example.exe
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\bin\Debug\Chapter12Example.pdb
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.Form1.resources
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.exe
+C:\Users\Admin\Desktop\Chapter12Example\Chapter12Example\obj\Debug\Chapter12Example.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\bin\Debug\Chapter12BMI.exe.config
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\bin\Debug\Chapter12BMI.exe
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\bin\Debug\Chapter12BMI.pdb
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\obj\Debug\Chapter12BMI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\obj\Debug\Chapter12BMI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\obj\Debug\Chapter12BMI.exe
+C:\Users\Admin\Desktop\Chapter12BMI\Chapter12BMI\obj\Debug\Chapter12BMI.pdb

@@ -1,0 +1,13 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\SingleFamily.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\SingleFamily.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\Housing.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\Housing.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\obj\Debug\SingleFamily.dll
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\obj\Debug\SingleFamily.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\SingleFamily.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\SingleFamily.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\Housing.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\bin\Debug\Housing.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\obj\Debug\SingleFamily.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\obj\Debug\SingleFamily.dll
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_10\SingleFamily\SingleFamily\obj\Debug\SingleFamily.pdb

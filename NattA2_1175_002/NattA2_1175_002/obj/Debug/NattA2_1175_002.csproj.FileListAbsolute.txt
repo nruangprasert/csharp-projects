@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\bin\Debug\NattA2_1175_002.exe.config
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\bin\Debug\NattA2_1175_002.exe
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\bin\Debug\NattA2_1175_002.pdb
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\obj\Debug\NattA2_1175_002.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\obj\Debug\NattA2_1175_002.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\obj\Debug\NattA2_1175_002.exe
+C:\Users\Admin\Desktop\NattA2_1175_002\NattA2_1175_002\obj\Debug\NattA2_1175_002.pdb

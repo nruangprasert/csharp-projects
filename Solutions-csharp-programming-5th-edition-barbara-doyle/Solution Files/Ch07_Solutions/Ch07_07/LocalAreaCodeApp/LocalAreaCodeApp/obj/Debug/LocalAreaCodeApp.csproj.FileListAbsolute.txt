@@ -1,0 +1,23 @@
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe.config
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.pdb
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.exe
+C:\CSharp_4thEdition\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.pdb
+C:\CSharp_4thEdition\RTP\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.csprojResolveAssemblyReference.cache
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\bin\Debug\LocalAreaCodeApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch07\Ch07_Solutions\Ch07_06\LocalAreaCodeApp\LocalAreaCodeApp\obj\Debug\LocalAreaCodeApp.csprojResolveAssemblyReference.cache

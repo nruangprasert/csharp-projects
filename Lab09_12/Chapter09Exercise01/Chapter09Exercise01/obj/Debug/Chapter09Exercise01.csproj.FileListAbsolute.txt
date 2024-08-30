@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\bin\Debug\Chapter09Exercise01.exe.config
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\bin\Debug\Chapter09Exercise01.exe
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\bin\Debug\Chapter09Exercise01.pdb
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.formMain.resources
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.exe
+C:\Users\Admin\Desktop\Chapter09Exercise01\Chapter09Exercise01\obj\Debug\Chapter09Exercise01.pdb

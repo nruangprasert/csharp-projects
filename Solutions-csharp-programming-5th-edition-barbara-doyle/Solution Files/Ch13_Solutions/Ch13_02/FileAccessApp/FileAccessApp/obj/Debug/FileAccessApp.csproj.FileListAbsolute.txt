@@ -1,0 +1,17 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.FrmFileAccess.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\bin\Debug\FileAccessApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.FrmFileAccess.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.Properties.Resources.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch13\Ch13_Solutions\Ch13_02\FileAccessApp\FileAccessApp\obj\Debug\FileAccessApp.csproj.GenerateResource.Cache

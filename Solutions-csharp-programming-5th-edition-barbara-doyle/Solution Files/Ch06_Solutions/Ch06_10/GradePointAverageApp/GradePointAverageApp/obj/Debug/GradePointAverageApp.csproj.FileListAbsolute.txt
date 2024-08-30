@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.pdb
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe.config
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.exe
+H:\Spring2014\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Solutions\Ch06_09\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_10\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_10\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_10\GradePointAverageApp\GradePointAverageApp\obj\Debug\GradePointAverageApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_10\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Solutions\Ch06_10\GradePointAverageApp\GradePointAverageApp\bin\Debug\GradePointAverageApp.pdb

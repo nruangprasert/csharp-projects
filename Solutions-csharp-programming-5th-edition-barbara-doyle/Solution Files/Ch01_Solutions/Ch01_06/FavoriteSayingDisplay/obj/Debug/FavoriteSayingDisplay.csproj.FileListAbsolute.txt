@@ -1,0 +1,10 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\obj\Debug\FavoriteSayingDisplay.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch01\Ch01_Solutions\Ch01_06\FavoriteSayingDisplay\bin\Debug\FavoriteSayingDisplay.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\bin\Debug\Chapter09Exrcise06.exe.config
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\bin\Debug\Chapter09Exrcise06.exe
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\bin\Debug\Chapter09Exrcise06.pdb
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.Form1.resources
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.exe
+C:\Users\Admin\Desktop\Chapter09Exrcise06\Chapter09Exrcise06\obj\Debug\Chapter09Exrcise06.pdb

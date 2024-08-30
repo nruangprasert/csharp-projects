@@ -1,0 +1,18 @@
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe.config
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.pdb
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.exe
+C:\CSharp_4thEdition\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe.config
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.exe
+H:\Fall2013\CourseMaterials\EOC_SolutionsFolderBoth\Solution Files\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\obj\Debug\SalesApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch08\Ch08_Solutions\Ch08_02\SalesApp\SalesApp\bin\Debug\SalesApp.pdb
