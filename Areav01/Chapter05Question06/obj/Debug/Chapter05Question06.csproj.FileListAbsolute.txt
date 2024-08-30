@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\bin\Debug\Chapter05Question06.exe.config
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\bin\Debug\Chapter05Question06.exe
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\bin\Debug\Chapter05Question06.pdb
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.exe
+C:\Users\Admin\Desktop\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.pdb
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\bin\Debug\Chapter05Question06.exe.config
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\bin\Debug\Chapter05Question06.exe
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\bin\Debug\Chapter05Question06.pdb
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.csproj.AssemblyReference.cache
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.csproj.CoreCompileInputs.cache
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.exe
+D:\PDD Data Analytics Winter 2024 Study Material\CSIS-1175-002\CSharpProjects\Chapter05Question06\Chapter05Question06\obj\Debug\Chapter05Question06.pdb

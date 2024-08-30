@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\Admin\Desktop\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\Admin\Desktop\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\Admin\Desktop\BMI\BMI\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BMI\BMI\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\Admin\Desktop\BMI\BMI\obj\Debug\BMI.pdb
