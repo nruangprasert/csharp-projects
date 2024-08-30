@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\bin\Debug\Chapter08Exercise05.exe.config
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\bin\Debug\Chapter08Exercise05.exe
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\bin\Debug\Chapter08Exercise05.pdb
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\obj\Debug\Chapter08Exercise05.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\obj\Debug\Chapter08Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\obj\Debug\Chapter08Exercise05.exe
+C:\Users\Admin\Desktop\Chapter08Exercise05\Chapter08Exercise05\obj\Debug\Chapter08Exercise05.pdb
