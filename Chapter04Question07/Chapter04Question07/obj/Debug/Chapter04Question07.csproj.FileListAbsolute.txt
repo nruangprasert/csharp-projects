@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\bin\Debug\Chapter04Question07.exe.config
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\bin\Debug\Chapter04Question07.exe
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\bin\Debug\Chapter04Question07.pdb
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\obj\Debug\Chapter04Question07.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\obj\Debug\Chapter04Question07.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\obj\Debug\Chapter04Question07.exe
+C:\Users\Admin\Desktop\Chapter04Question07\Chapter04Question07\obj\Debug\Chapter04Question07.pdb
